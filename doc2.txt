@@ -1,1 +1,2 @@
 This is the second document for our exercise.
+Today is a nice day!
